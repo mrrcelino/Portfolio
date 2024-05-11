@@ -37,3 +37,7 @@ Hello! My name is Marcelino, and since early 2024, I've embarked on a journey to
 * communication
 * Confidence
 * patience
+
+## Examples of my work
+### Test cases and with Manual Testing
+- [You can check here](https://github.com/mrrcelino/Manual-Testing/)
